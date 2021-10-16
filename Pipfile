@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 gunicorn = "==19.9.0"
+django-heroku = "*"
+psycopg2-binary = "*"
 
 [dev-packages]
 
